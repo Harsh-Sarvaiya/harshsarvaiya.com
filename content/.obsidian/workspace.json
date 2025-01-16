@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "text"
             }
           }
         ],
@@ -173,17 +173,17 @@
   },
   "active": "22faa5b37db01f8a",
   "lastOpenFiles": [
-    "posts/Untitled.md",
-    "posts/text.md",
+    "index.md",
     "thoughts/Asymmetric Risk.md",
+    "thoughts/test.md",
     "thoughts/images/asymmetricRiskChatGPT.png",
+    "posts/text.md",
+    "posts/Untitled.md",
     "posts/images/PXL_20241001_223508021.jpg",
     "thoughts/images",
     "Untitled",
     "posts/images",
     "images",
-    "thoughts/test.md",
-    "index.md",
     "text.md"
   ]
 }
