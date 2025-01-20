@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "text.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "text"
+              "title": "index"
             }
           }
         ],
@@ -173,6 +173,7 @@
   },
   "active": "22faa5b37db01f8a",
   "lastOpenFiles": [
+    "text.md",
     "index.md",
     "thoughts/Asymmetric Risk.md",
     "thoughts/test.md",
@@ -183,7 +184,6 @@
     "thoughts/images",
     "Untitled",
     "posts/images",
-    "images",
-    "text.md"
+    "images"
   ]
 }
