@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Harsh Sarvaiya</title>
-      <link>https://harshsarvaiya.com</link>
-      <description>Last 10 notes on Harsh Sarvaiya</description>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Asymmetric Risk</title>
-    <link>https://harshsarvaiya.com/thoughts/Asymmetric-Risk</link>
-    <guid>https://harshsarvaiya.com/thoughts/Asymmetric-Risk</guid>
-    <description>Heard about this first in the podcast My First Million with the guest Mohnish Pabrai. He describes it as: “Heads I win, Tails I don’t lose much” (I love this line) I am working on becoming someone who can both recognize and act on more asymmetric opportunities as I grow.</description>
-    <pubDate>Thu, 16 Jan 2025 02:47:35 GMT</pubDate>
-  </item><item>
-    <title>text</title>
-    <link>https://harshsarvaiya.com/text</link>
-    <guid>https://harshsarvaiya.com/text</guid>
-    <description>this is my projects section.</description>
-    <pubDate>Thu, 16 Jan 2025 02:47:35 GMT</pubDate>
-  </item><item>
-    <title>text</title>
-    <link>https://harshsarvaiya.com/posts/text</link>
-    <guid>https://harshsarvaiya.com/posts/text</guid>
-    <description>test test.</description>
-    <pubDate>Thu, 16 Jan 2025 02:47:35 GMT</pubDate>
-  </item><item>
     <title>Welcome Traveller</title>
-    <link>https://harshsarvaiya.com/</link>
-    <guid>https://harshsarvaiya.com/</guid>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
     <description>I’m Harsh. Welcome to my personal hypertext garden. I just started this garden, so the seeds and saplings are still growing. But check in every once in a while.</description>
-    <pubDate>Thu, 16 Jan 2025 02:47:35 GMT</pubDate>
+    <pubDate>Mon, 20 Jan 2025 14:16:09 GMT</pubDate>
+  </item><item>
+    <title>text</title>
+    <link>https://quartz.jzhao.xyz/posts/text</link>
+    <guid>https://quartz.jzhao.xyz/posts/text</guid>
+    <description>test test.</description>
+    <pubDate>Mon, 20 Jan 2025 14:16:09 GMT</pubDate>
+  </item><item>
+    <title>text</title>
+    <link>https://quartz.jzhao.xyz/text</link>
+    <guid>https://quartz.jzhao.xyz/text</guid>
+    <description>this is my projects section.</description>
+    <pubDate>Mon, 20 Jan 2025 14:16:09 GMT</pubDate>
+  </item><item>
+    <title>Asymmetric Risk</title>
+    <link>https://quartz.jzhao.xyz/thoughts/Asymmetric-Risk</link>
+    <guid>https://quartz.jzhao.xyz/thoughts/Asymmetric-Risk</guid>
+    <description>Heard about this first in the podcast My First Million with the guest Mohnish Pabrai. He describes it as: “Heads I win, Tails I don’t lose much” (I love this line) I am working on becoming someone who can both recognize and act on more asymmetric opportunities as I grow.</description>
+    <pubDate>Mon, 20 Jan 2025 14:16:09 GMT</pubDate>
   </item>
     </channel>
   </rss>
