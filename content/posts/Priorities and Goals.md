@@ -5,8 +5,10 @@ Career
 - Learning Robotics/VR
 - Get an academic paper out
 - Get better at meeting/talking to people
+
 Growth
 - Figure out how investing works
 - Get stronger/more fit
+
 Wellbeing
 - Dress well or at least don't dress like you just woke up lol
